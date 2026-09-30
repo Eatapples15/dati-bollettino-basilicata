@@ -43,10 +43,10 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
-    "data_bollettino": "29/09/2026",
-    "validita_inizio": "29/09/2026",
-    "validita_fine": "29/09/2026",
+    "data_bollettino": "30/09/2026",
+    "validita_inizio": "30/09/2026",
+    "validita_fine": "30/09/2026",
     "url_bollettino": "https://github.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica",
     "fonte": "dpc_nazionale",
-    "generato_il": "2026-09-30T08:55:20Z"
+    "generato_il": "2026-09-30T14:23:09Z"
 }
