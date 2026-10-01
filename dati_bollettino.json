@@ -43,9 +43,9 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
-    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_01_10_2026.pdf",
-    "data_bollettino": "01/10/2026",
-    "validita_inizio": "ore 14:00 del 01/10/2026",
-    "validita_fine": "ore 23:59 del 02/10/2026",
-    "generato_il": "2026-10-01T11:44:12Z"
+    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_30_09_2026.pdf",
+    "data_bollettino": "30/09/2026",
+    "validita_inizio": "ore 14:00 del 30/09/2026",
+    "validita_fine": "ore 23:59 del 01/10/2026",
+    "generato_il": "2026-10-01T14:54:16Z"
 }
