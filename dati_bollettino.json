@@ -43,10 +43,9 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
+    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_02_10_2026.pdf",
     "data_bollettino": "02/10/2026",
-    "validita_inizio": "02/10/2026",
-    "validita_fine": "02/10/2026",
-    "url_bollettino": "https://github.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica",
-    "fonte": "dpc_nazionale",
-    "generato_il": "2026-10-02T14:54:43Z"
+    "validita_inizio": "ore 14:00 del 02/10/2026",
+    "validita_fine": "ore 23:59 del 03/10/2026",
+    "generato_il": "2026-10-02T16:23:51Z"
 }
