@@ -1,5 +1,5 @@
 {
-    "ultimo_aggiornamento": "03/10/2026 15:12",
+    "ultimo_aggiornamento": "03/10/2026 18:47",
     "sensori": {
         "pluviometria": {
             "dati": [
@@ -1508,9 +1508,9 @@
                 {
                     "id": "652900",
                     "nome": "AGRI A ROCCANOVA",
-                    "valore": "0.11 m",
+                    "valore": "0.10 m",
                     "serie": [
-                        "0.11 m"
+                        "0.10 m"
                     ],
                     "data": "AGRI"
                 },
@@ -1526,18 +1526,18 @@
                 {
                     "id": "647100",
                     "nome": "AGRI SS 106",
-                    "valore": "-0.24 m",
+                    "valore": "-0.23 m",
                     "serie": [
-                        "-0.24 m"
+                        "-0.23 m"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "240400",
                     "nome": "BASENTO SS 106",
-                    "valore": "0.81 m",
+                    "valore": "0.80 m",
                     "serie": [
-                        "0.81 m"
+                        "0.80 m"
                     ],
                     "data": "BASENTO"
                 },
@@ -1553,15 +1553,33 @@
                 {
                     "id": "639000",
                     "nome": "BRADANO A S. LUCIA",
-                    "valore": "0.20 m",
+                    "valore": "0.19 m",
                     "serie": [
-                        "0.20 m"
+                        "0.19 m"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "652600",
                     "nome": "BRADANO PONTE COLONNA",
+                    "valore": "0.30 m",
+                    "serie": [
+                        "0.30 m"
+                    ],
+                    "data": "BRADANO"
+                },
+                {
+                    "id": "652700",
+                    "nome": "BRADANO SERRAMARINA",
+                    "valore": "1.25 m",
+                    "serie": [
+                        "1.25 m"
+                    ],
+                    "data": "BRADANO"
+                },
+                {
+                    "id": "417900",
+                    "nome": "BRADANO SS106",
                     "valore": "0.31 m",
                     "serie": [
                         "0.31 m"
@@ -1569,83 +1587,65 @@
                     "data": "BRADANO"
                 },
                 {
-                    "id": "652700",
-                    "nome": "BRADANO SERRAMARINA",
-                    "valore": "1.29 m",
-                    "serie": [
-                        "1.29 m"
-                    ],
-                    "data": "BRADANO"
-                },
-                {
-                    "id": "417900",
-                    "nome": "BRADANO SS106",
-                    "valore": "0.32 m",
-                    "serie": [
-                        "0.32 m"
-                    ],
-                    "data": "BRADANO"
-                },
-                {
                     "id": "179800",
                     "nome": "CAMPOMAGGIORE",
-                    "valore": "0.40 m",
+                    "valore": "0.42 m",
                     "serie": [
-                        "0.40 m"
+                        "0.42 m"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "275600",
                     "nome": "CASTROCUCCO",
-                    "valore": "1.06 m",
+                    "valore": "1.09 m",
                     "serie": [
-                        "1.06 m"
+                        "1.09 m"
                     ],
                     "data": "NOCE"
                 },
                 {
                     "id": "204000",
                     "nome": "CAVONE SS106",
-                    "valore": "1.00 m",
+                    "valore": "0.99 m",
                     "serie": [
-                        "1.00 m"
+                        "0.99 m"
                     ],
                     "data": "CAVONE"
                 },
                 {
                     "id": "176900",
                     "nome": "CRACO PESCHIERA",
-                    "valore": "0.32 m",
+                    "valore": "0.41 m",
                     "serie": [
-                        "0.32 m"
+                        "0.41 m"
                     ],
                     "data": "CAVONE"
                 },
                 {
                     "id": "907100",
                     "nome": "D_PERTUSILLO GRUMENTINO",
-                    "valore": "5.50 m",
+                    "valore": "5.30 m",
                     "serie": [
-                        "5.50 m"
+                        "5.30 m"
                     ],
                     "data": ""
                 },
                 {
                     "id": "275500",
                     "nome": "EPISCOPIA-PIZZUTELLO",
-                    "valore": "0.98 m",
+                    "valore": "0.99 m",
                     "serie": [
-                        "0.98 m"
+                        "0.99 m"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "698800",
                     "nome": "F.MELANDRO S.ANGELO LE FRATTE",
-                    "valore": "-0.07 m",
+                    "valore": "-0.03 m",
                     "serie": [
-                        "-0.07 m"
+                        "-0.03 m"
                     ],
                     "data": "SELE"
                 },
@@ -1661,18 +1661,18 @@
                 {
                     "id": "240600",
                     "nome": "GRASSANO SCALO",
-                    "valore": "2.28 m",
+                    "valore": "2.27 m",
                     "serie": [
-                        "2.28 m"
+                        "2.27 m"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "275400",
                     "nome": "GRUMENTO-PONTE LA MARMORA",
-                    "valore": "0.38 m",
+                    "valore": "0.40 m",
                     "serie": [
-                        "0.38 m"
+                        "0.40 m"
                     ],
                     "data": "AGRI"
                 },
@@ -1688,9 +1688,9 @@
                 {
                     "id": "906100",
                     "nome": "I_LAGONEGRO",
-                    "valore": "1.22 m",
+                    "valore": "1.21 m",
                     "serie": [
-                        "1.22 m"
+                        "1.21 m"
                     ],
                     "data": ""
                 },
@@ -1706,9 +1706,9 @@
                 {
                     "id": "905500",
                     "nome": "I_MARSICO NUOVO",
-                    "valore": "-0.06 m",
+                    "valore": "-0.18 m",
                     "serie": [
-                        "-0.06 m"
+                        "-0.18 m"
                     ],
                     "data": ""
                 },
@@ -1724,18 +1724,18 @@
                 {
                     "id": "905800",
                     "nome": "I_PONTE MALLARDO",
-                    "valore": "3.79 m",
+                    "valore": "3.80 m",
                     "serie": [
-                        "3.79 m"
+                        "3.80 m"
                     ],
                     "data": ""
                 },
                 {
                     "id": "905700",
                     "nome": "I_SCIAURA",
-                    "valore": "-0.02 m",
+                    "valore": "0.23 m",
                     "serie": [
-                        "-0.02 m"
+                        "0.23 m"
                     ],
                     "data": ""
                 },
@@ -1760,18 +1760,18 @@
                 {
                     "id": "276400",
                     "nome": "LAINO BORGO",
-                    "valore": "0.58 m",
+                    "valore": "0.57 m",
                     "serie": [
-                        "0.58 m"
+                        "0.57 m"
                     ],
                     "data": "LAO"
                 },
                 {
                     "id": "481200",
                     "nome": "MONTESCAGLIOSO",
-                    "valore": "0.49 m",
+                    "valore": "0.48 m",
                     "serie": [
-                        "0.49 m"
+                        "0.48 m"
                     ],
                     "data": "BRADANO"
                 },
@@ -1787,9 +1787,9 @@
                 {
                     "id": "387900",
                     "nome": "POTENZA Q.A.",
-                    "valore": "0.07 m",
+                    "valore": "0.06 m",
                     "serie": [
-                        "0.07 m"
+                        "0.06 m"
                     ],
                     "data": "BASENTO"
                 },
@@ -1805,9 +1805,9 @@
                 {
                     "id": "179700",
                     "nome": "S.GIULIANO",
-                    "valore": "0.84 m",
+                    "valore": "0.82 m",
                     "serie": [
-                        "0.84 m"
+                        "0.82 m"
                     ],
                     "data": "BRADANO"
                 },
@@ -1832,9 +1832,9 @@
                 {
                     "id": "177000",
                     "nome": "TORRE ACCIO",
-                    "valore": "2.21 m",
+                    "valore": "2.20 m",
                     "serie": [
-                        "2.21 m"
+                        "2.20 m"
                     ],
                     "data": "BASENTO"
                 },
@@ -1872,63 +1872,63 @@
                 {
                     "id": "653100",
                     "nome": "ABRIOLA A SELLATA PIERFAONE",
-                    "valore": "13.2 °C",
+                    "valore": "10.0 °C",
                     "serie": [
-                        "13.2 °C"
+                        "10.0 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "639400",
                     "nome": "AGRI A VALLE GANNANO",
-                    "valore": "25.4 °C",
+                    "valore": "16.9 °C",
                     "serie": [
-                        "25.4 °C"
+                        "16.9 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "647100",
                     "nome": "AGRI SS 106",
-                    "valore": "25.4 °C",
+                    "valore": "17.4 °C",
                     "serie": [
-                        "25.4 °C"
+                        "17.4 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "179900",
                     "nome": "ALBANO DI LUCANIA",
-                    "valore": "19.3 °C",
+                    "valore": "15.9 °C",
                     "serie": [
-                        "19.3 °C"
+                        "15.9 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "699400",
                     "nome": "ANZI",
-                    "valore": "20.5 °C",
+                    "valore": "14.4 °C",
                     "serie": [
-                        "20.5 °C"
+                        "14.4 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "947000",
                     "nome": "ATELLA ARPAB",
-                    "valore": "22.3 °C",
+                    "valore": "16.8 °C",
                     "serie": [
-                        "22.3 °C"
+                        "16.8 °C"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "419800",
                     "nome": "BALVANO",
-                    "valore": "23.8 °C",
+                    "valore": "18.5 °C",
                     "serie": [
-                        "23.8 °C"
+                        "18.5 °C"
                     ],
                     "data": "SELE"
                 },
@@ -1944,99 +1944,99 @@
                 {
                     "id": "240400",
                     "nome": "BASENTO SS 106",
-                    "valore": "25.2 °C",
+                    "valore": "18.6 °C",
                     "serie": [
-                        "25.2 °C"
+                        "18.6 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "272700",
                     "nome": "BELLA S.ANTONIO CASALINI",
-                    "valore": "20.7 °C",
+                    "valore": "16.7 °C",
                     "serie": [
-                        "20.7 °C"
+                        "16.7 °C"
                     ],
                     "data": "TANAGRO"
                 },
                 {
                     "id": "230600",
                     "nome": "BRADANO FREATIMETRO",
-                    "valore": "25.8 °C",
+                    "valore": "17.9 °C",
                     "serie": [
-                        "25.8 °C"
+                        "17.9 °C"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "417900",
                     "nome": "BRADANO SS106",
-                    "valore": "25.7 °C",
+                    "valore": "19.3 °C",
                     "serie": [
-                        "25.7 °C"
+                        "19.3 °C"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "419900",
                     "nome": "BRIENZA",
-                    "valore": "21.3 °C",
+                    "valore": "14.6 °C",
                     "serie": [
-                        "21.3 °C"
+                        "14.6 °C"
                     ],
                     "data": "TANAGRO"
                 },
                 {
                     "id": "179800",
                     "nome": "CAMPOMAGGIORE",
-                    "valore": "23.5 °C",
+                    "valore": "15.0 °C",
                     "serie": [
-                        "23.5 °C"
+                        "15.0 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "331200",
                     "nome": "CASTELSARACENO",
-                    "valore": "18.3 °C",
+                    "valore": "11.9 °C",
                     "serie": [
-                        "18.3 °C"
+                        "11.9 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "275600",
                     "nome": "CASTROCUCCO",
-                    "valore": "23.8 °C",
+                    "valore": "16.4 °C",
                     "serie": [
-                        "23.8 °C"
+                        "16.4 °C"
                     ],
                     "data": "NOCE"
                 },
                 {
                     "id": "275500",
                     "nome": "EPISCOPIA-PIZZUTELLO",
-                    "valore": "22.6 °C",
+                    "valore": "13.7 °C",
                     "serie": [
-                        "22.6 °C"
+                        "13.7 °C"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "698800",
                     "nome": "F.MELANDRO S.ANGELO LE FRATTE",
-                    "valore": "22.7 °C",
+                    "valore": "11.8 °C",
                     "serie": [
-                        "22.7 °C"
+                        "11.8 °C"
                     ],
                     "data": "SELE"
                 },
                 {
                     "id": "177100",
                     "nome": "FERRANDINA SP",
-                    "valore": "23.0 °C",
+                    "valore": "18.7 °C",
                     "serie": [
-                        "23.0 °C"
+                        "18.7 °C"
                     ],
                     "data": "BASENTO"
                 },
@@ -2052,18 +2052,18 @@
                 {
                     "id": "947500",
                     "nome": "FRANCAVILLA IN SINNI ARPAB",
-                    "valore": "23.5 °C",
+                    "valore": "16.3 °C",
                     "serie": [
-                        "23.5 °C"
+                        "16.3 °C"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "948800",
                     "nome": "GENZANO DI LUCANIA ARPAB",
-                    "valore": "20.2 °C",
+                    "valore": "16.4 °C",
                     "serie": [
-                        "20.2 °C"
+                        "16.4 °C"
                     ],
                     "data": "BRADANO"
                 },
@@ -2088,63 +2088,63 @@
                 {
                     "id": "482200",
                     "nome": "GORGOGLIONE",
-                    "valore": "17.7 °C",
+                    "valore": "14.4 °C",
                     "serie": [
-                        "17.7 °C"
+                        "14.4 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "240600",
                     "nome": "GRASSANO SCALO",
-                    "valore": "24.1 °C",
+                    "valore": "18.6 °C",
                     "serie": [
-                        "24.1 °C"
+                        "18.6 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "240700",
                     "nome": "GRASSANO SP",
-                    "valore": "21.3 °C",
+                    "valore": "18.4 °C",
                     "serie": [
-                        "21.3 °C"
+                        "18.4 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "947600",
                     "nome": "GROTTOLE ARPAB",
-                    "valore": "24.1 °C",
+                    "valore": "18.4 °C",
                     "serie": [
-                        "24.1 °C"
+                        "18.4 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "699200",
                     "nome": "GUARDIA PERTICARA",
-                    "valore": "19.8 °C",
+                    "valore": "15.6 °C",
                     "serie": [
-                        "19.8 °C"
+                        "15.6 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "55200",
                     "nome": "IRSINA",
-                    "valore": "21.4 °C",
+                    "valore": "17.8 °C",
                     "serie": [
-                        "21.4 °C"
+                        "17.8 °C"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "55100",
                     "nome": "LAGONEGRO",
-                    "valore": "21.5 °C",
+                    "valore": "13.9 °C",
                     "serie": [
-                        "21.5 °C"
+                        "13.9 °C"
                     ],
                     "data": "NOCE"
                 },
@@ -2169,54 +2169,54 @@
                 {
                     "id": "947900",
                     "nome": "MARATEA ARPAB",
-                    "valore": "23.3 °C",
+                    "valore": "16.5 °C",
                     "serie": [
-                        "23.3 °C"
+                        "16.5 °C"
                     ],
                     "data": "NOCE"
                 },
                 {
                     "id": "331900",
                     "nome": "MARATEA MASSA",
-                    "valore": "20.2 °C",
+                    "valore": "18.7 °C",
                     "serie": [
-                        "20.2 °C"
+                        "18.7 °C"
                     ],
                     "data": "NOCE"
                 },
                 {
                     "id": "277300",
                     "nome": "MARSICO NUOVO",
-                    "valore": "21.4 °C",
+                    "valore": "17.2 °C",
                     "serie": [
-                        "21.4 °C"
+                        "17.2 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "948000",
                     "nome": "MARSICOVETERE ARPAB",
-                    "valore": "18.8 °C",
+                    "valore": "14.2 °C",
                     "serie": [
-                        "18.8 °C"
+                        "14.2 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "948100",
                     "nome": "MASCHITO ARPAB",
-                    "valore": "20.2 °C",
+                    "valore": "16.3 °C",
                     "serie": [
-                        "20.2 °C"
+                        "16.3 °C"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "55000",
                     "nome": "MATERA",
-                    "valore": "22.8 °C",
+                    "valore": "18.9 °C",
                     "serie": [
-                        "22.8 °C"
+                        "18.9 °C"
                     ],
                     "data": "BRADANO"
                 },
@@ -2232,36 +2232,36 @@
                 {
                     "id": "948300",
                     "nome": "MELFI ARPAB",
-                    "valore": "23.1 °C",
+                    "valore": "15.9 °C",
                     "serie": [
-                        "23.1 °C"
+                        "15.9 °C"
                     ],
                     "data": ""
                 },
                 {
                     "id": "948400",
                     "nome": "MIGLIONICO ARPAB",
-                    "valore": "23.2 °C",
+                    "valore": "19.0 °C",
                     "serie": [
-                        "23.2 °C"
+                        "19.0 °C"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "948500",
                     "nome": "MONTALBANO JONICO ARPAB",
-                    "valore": "24.8 °C",
+                    "valore": "19.9 °C",
                     "serie": [
-                        "24.8 °C"
+                        "19.9 °C"
                     ],
                     "data": "CAVONE"
                 },
                 {
                     "id": "948600",
                     "nome": "MONTEMURRO ARPAB",
-                    "valore": "23.3 °C",
+                    "valore": "16.2 °C",
                     "serie": [
-                        "23.3 °C"
+                        "16.2 °C"
                     ],
                     "data": "AGRI"
                 },
@@ -2277,51 +2277,42 @@
                 {
                     "id": "54900",
                     "nome": "NOEPOLI",
-                    "valore": "20.2 °C",
+                    "valore": "18.5 °C",
                     "serie": [
-                        "20.2 °C"
+                        "18.5 °C"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "948700",
                     "nome": "OLIVETO LUCANO ARPAB",
-                    "valore": "22.1 °C",
+                    "valore": "14.0 °C",
                     "serie": [
-                        "22.1 °C"
+                        "14.0 °C"
                     ],
                     "data": "CAVONE"
                 },
                 {
                     "id": "418000",
                     "nome": "OPPIDO LUCANO",
-                    "valore": "20.5 °C",
+                    "valore": "16.5 °C",
                     "serie": [
-                        "20.5 °C"
+                        "16.5 °C"
                     ],
                     "data": "OFANTO"
                 },
                 {
                     "id": "907900",
                     "nome": "P_CANCELLARA",
-                    "valore": "20.9 °C",
+                    "valore": "16.3 °C",
                     "serie": [
-                        "20.9 °C"
+                        "16.3 °C"
                     ],
                     "data": ""
                 },
                 {
                     "id": "907700",
                     "nome": "P_CORLETO PERTICARA",
-                    "valore": "20.1 °C",
-                    "serie": [
-                        "20.1 °C"
-                    ],
-                    "data": ""
-                },
-                {
-                    "id": "907800",
-                    "nome": "P_SELLATA",
                     "valore": "16.6 °C",
                     "serie": [
                         "16.6 °C"
@@ -2329,20 +2320,29 @@
                     "data": ""
                 },
                 {
+                    "id": "907800",
+                    "nome": "P_SELLATA",
+                    "valore": "10.6 °C",
+                    "serie": [
+                        "10.6 °C"
+                    ],
+                    "data": ""
+                },
+                {
                     "id": "908000",
                     "nome": "P_TOLVE",
-                    "valore": "22.2 °C",
+                    "valore": "17.5 °C",
                     "serie": [
-                        "22.2 °C"
+                        "17.5 °C"
                     ],
                     "data": ""
                 },
                 {
                     "id": "418300",
                     "nome": "PALAZZO S.GERVASIO",
-                    "valore": "23.2 °C",
+                    "valore": "17.6 °C",
                     "serie": [
-                        "23.2 °C"
+                        "17.6 °C"
                     ],
                     "data": "OFANTO"
                 },
@@ -2358,81 +2358,81 @@
                 {
                     "id": "419700",
                     "nome": "PICERNO",
-                    "valore": "21.5 °C",
+                    "valore": "17.2 °C",
                     "serie": [
-                        "21.5 °C"
+                        "17.2 °C"
                     ],
                     "data": "TANAGRO"
                 },
                 {
                     "id": "948900",
                     "nome": "PIETRAPERTOSA ARPAB",
-                    "valore": "20.3 °C",
+                    "valore": "14.6 °C",
                     "serie": [
-                        "20.3 °C"
+                        "14.6 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "858200",
                     "nome": "POMARICO FRANA",
-                    "valore": "23.1 °C",
+                    "valore": "19.8 °C",
                     "serie": [
-                        "23.1 °C"
+                        "19.8 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "83800",
                     "nome": "POTENZA",
-                    "valore": "20.3 °C",
+                    "valore": "16.1 °C",
                     "serie": [
-                        "20.3 °C"
+                        "16.1 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "387900",
                     "nome": "POTENZA Q.A.",
-                    "valore": "22.1 °C",
+                    "valore": "14.3 °C",
                     "serie": [
-                        "22.1 °C"
+                        "14.3 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "332500",
                     "nome": "ROCCANOVA",
-                    "valore": "20.4 °C",
+                    "valore": "16.8 °C",
                     "serie": [
-                        "20.4 °C"
+                        "16.8 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "699100",
                     "nome": "ROTONDA",
-                    "valore": "21.1 °C",
+                    "valore": "16.5 °C",
                     "serie": [
-                        "21.1 °C"
+                        "16.5 °C"
                     ],
                     "data": "LAO"
                 },
                 {
                     "id": "949300",
                     "nome": "ROTONDELLA ARPAB",
-                    "valore": "20.9 °C",
+                    "valore": "18.4 °C",
                     "serie": [
-                        "20.9 °C"
+                        "18.4 °C"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "481100",
                     "nome": "S.DEMETRIO",
-                    "valore": "21.5 °C",
+                    "valore": "12.0 °C",
                     "serie": [
-                        "21.5 °C"
+                        "12.0 °C"
                     ],
                     "data": "BASENTO"
                 },
@@ -2448,162 +2448,162 @@
                 {
                     "id": "417800",
                     "nome": "S.MAURO FORTE",
-                    "valore": "22.7 °C",
+                    "valore": "18.8 °C",
                     "serie": [
-                        "22.7 °C"
+                        "18.8 °C"
                     ],
                     "data": "CAVONE"
                 },
                 {
                     "id": "83900",
                     "nome": "S.NICOLA",
-                    "valore": "20.2 °C",
+                    "valore": "14.9 °C",
                     "serie": [
-                        "20.2 °C"
+                        "14.9 °C"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "699000",
                     "nome": "SALANDRA",
-                    "valore": "21.1 °C",
+                    "valore": "16.0 °C",
                     "serie": [
-                        "21.1 °C"
+                        "16.0 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "949400",
                     "nome": "SAN GIORGIO LUCANO ARPAB",
-                    "valore": "24.1 °C",
+                    "valore": "17.2 °C",
                     "serie": [
-                        "24.1 °C"
+                        "17.2 °C"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "949500",
                     "nome": "SAN MARTINO DAGRI ARPAB",
-                    "valore": "21.1 °C",
+                    "valore": "15.7 °C",
                     "serie": [
-                        "21.1 °C"
+                        "15.7 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "949200",
                     "nome": "SAN SEVERINO LUCANO ARPAB",
-                    "valore": "19.6 °C",
+                    "valore": "13.4 °C",
                     "serie": [
-                        "19.6 °C"
+                        "13.4 °C"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "949700",
                     "nome": "SATRIANO DI LUCANIA ARPAB",
-                    "valore": "22.0 °C",
+                    "valore": "17.2 °C",
                     "serie": [
-                        "22.0 °C"
+                        "17.2 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "767300",
                     "nome": "SPINOSO",
-                    "valore": "19.4 °C",
+                    "valore": "14.9 °C",
                     "serie": [
-                        "19.4 °C"
+                        "14.9 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "54800",
                     "nome": "STIGLIANO",
-                    "valore": "18.5 °C",
+                    "valore": "15.6 °C",
                     "serie": [
-                        "18.5 °C"
+                        "15.6 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "233200",
                     "nome": "TERRA MONTONATA",
-                    "valore": "26.8 °C",
+                    "valore": "21.3 °C",
                     "serie": [
-                        "26.8 °C"
+                        "21.3 °C"
                     ],
                     "data": "CAVONE"
                 },
                 {
                     "id": "276500",
                     "nome": "TERRANOVA DI POLLINO",
-                    "valore": "15.6 °C",
+                    "valore": "11.5 °C",
                     "serie": [
-                        "15.6 °C"
+                        "11.5 °C"
                     ],
                     "data": "SINNI"
                 },
                 {
                     "id": "420000",
                     "nome": "TITO",
-                    "valore": "21.5 °C",
+                    "valore": "16.4 °C",
                     "serie": [
-                        "21.5 °C"
+                        "16.4 °C"
                     ],
                     "data": "TANAGRO"
                 },
                 {
                     "id": "177000",
                     "nome": "TORRE ACCIO",
-                    "valore": "25.2 °C",
+                    "valore": "15.9 °C",
                     "serie": [
-                        "25.2 °C"
+                        "15.9 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "54700",
                     "nome": "TRAMUTOLA",
-                    "valore": "22.8 °C",
+                    "valore": "12.0 °C",
                     "serie": [
-                        "22.8 °C"
+                        "12.0 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "698900",
                     "nome": "TRICARICO",
-                    "valore": "21.2 °C",
+                    "valore": "15.9 °C",
                     "serie": [
-                        "21.2 °C"
+                        "15.9 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "276900",
                     "nome": "TURSI",
-                    "valore": "24.4 °C",
+                    "valore": "20.5 °C",
                     "serie": [
-                        "24.4 °C"
+                        "20.5 °C"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "699300",
                     "nome": "VAGLIO DI BASILICATA",
-                    "valore": "16.9 °C",
+                    "valore": "13.7 °C",
                     "serie": [
-                        "16.9 °C"
+                        "13.7 °C"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "418200",
                     "nome": "VENOSA",
-                    "valore": "22.8 °C",
+                    "valore": "17.3 °C",
                     "serie": [
-                        "22.8 °C"
+                        "17.3 °C"
                     ],
                     "data": "OFANTO"
                 }
@@ -2614,154 +2614,154 @@
                 {
                     "id": "331200",
                     "nome": "CASTELSARACENO",
-                    "valore": "93 °",
+                    "valore": "279 °",
                     "serie": [
-                        "93 °",
-                        "2.4 m/s",
-                        "2.6 m/s",
-                        "94 °",
-                        "5.6 m/s",
-                        "96 °"
+                        "279 °",
+                        "0.8 m/s",
+                        "0.9 m/s",
+                        "280 °",
+                        "2.5 m/s",
+                        "227 °"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "482200",
                     "nome": "GORGOGLIONE",
-                    "valore": "35 °",
+                    "valore": "41 °",
                     "serie": [
-                        "35 °",
-                        "3.2 m/s",
-                        "3.8 m/s",
-                        "36 °",
-                        "6.9 m/s",
-                        "22 °"
+                        "41 °",
+                        "3.5 m/s",
+                        "3.6 m/s",
+                        "41 °",
+                        "5.9 m/s",
+                        "32 °"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "418100",
                     "nome": "LAVELLO",
-                    "valore": "56 °",
+                    "valore": "222 °",
                     "serie": [
-                        "56 °",
-                        "1.7 m/s",
-                        "2.0 m/s",
-                        "56 °",
-                        "4.9 m/s",
-                        "55 °"
+                        "222 °",
+                        "0.9 m/s",
+                        "1.1 m/s",
+                        "215 °",
+                        "4.7 m/s",
+                        "63 °"
                     ],
                     "data": "OFANTO"
                 },
                 {
                     "id": "331900",
                     "nome": "MARATEA MASSA",
-                    "valore": "230 °",
+                    "valore": "248 °",
                     "serie": [
-                        "230 °",
-                        "3.5 m/s",
-                        "3.6 m/s",
-                        "230 °",
-                        "6.2 m/s",
-                        "232 °"
+                        "248 °",
+                        "0.0 m/s",
+                        "0.3 m/s",
+                        "213 °",
+                        "1.9 m/s",
+                        "252 °"
                     ],
                     "data": "NOCE"
                 },
                 {
                     "id": "277300",
                     "nome": "MARSICO NUOVO",
-                    "valore": "28 °",
+                    "valore": "296 °",
                     "serie": [
-                        "28 °",
-                        "0.9 m/s",
-                        "1.5 m/s",
-                        "18 °",
-                        "3.9 m/s",
-                        "95 °"
+                        "296 °",
+                        "2.5 m/s",
+                        "2.7 m/s",
+                        "298 °",
+                        "6.0 m/s",
+                        "288 °"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "948400",
                     "nome": "MIGLIONICO ARPAB",
-                    "valore": "28 °",
+                    "valore": "354 °",
                     "serie": [
-                        "28 °",
-                        "2.6 m/s",
-                        "2.7 m/s",
-                        "29 °",
-                        "5.5 m/s",
-                        "43 °"
+                        "354 °",
+                        "1.2 m/s",
+                        "1.2 m/s",
+                        "352 °",
+                        "1.8 m/s",
+                        "53 °"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "418000",
                     "nome": "OPPIDO LUCANO",
-                    "valore": "351 °",
+                    "valore": "79 °",
                     "serie": [
-                        "351 °",
-                        "2.0 m/s",
-                        "2.5 m/s",
-                        "351 °",
-                        "5.3 m/s",
-                        "352 °"
+                        "79 °",
+                        "2.8 m/s",
+                        "2.8 m/s",
+                        "79 °",
+                        "5.2 m/s",
+                        "44 °"
                     ],
                     "data": "OFANTO"
                 },
                 {
                     "id": "699000",
                     "nome": "SALANDRA",
-                    "valore": "28 °",
+                    "valore": "84 °",
                     "serie": [
-                        "28 °",
-                        "1.9 m/s",
-                        "2.2 m/s",
-                        "34 °",
-                        "4.3 m/s",
-                        "41 °"
+                        "84 °",
+                        "0.4 m/s",
+                        "0.6 m/s",
+                        "96 °",
+                        "1.1 m/s",
+                        "55 °"
                     ],
                     "data": "BASENTO"
                 },
                 {
                     "id": "949700",
                     "nome": "SATRIANO DI LUCANIA ARPAB",
-                    "valore": "36 °",
+                    "valore": "27 °",
                     "serie": [
-                        "36 °",
-                        "1.8 m/s",
-                        "2.1 m/s",
-                        "34 °",
-                        "5.8 m/s",
-                        "13 °"
+                        "27 °",
+                        "2.3 m/s",
+                        "2.3 m/s",
+                        "25 °",
+                        "4.3 m/s",
+                        "27 °"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "233200",
                     "nome": "TERRA MONTONATA",
-                    "valore": "142 °",
+                    "valore": "0 °",
                     "serie": [
-                        "142 °",
-                        "3.6 m/s",
-                        "3.6 m/s",
-                        "141 °",
-                        "6.4 m/s",
-                        "131 °"
+                        "0 °",
+                        "1.7 m/s",
+                        "1.7 m/s",
+                        "1 °",
+                        "2.1 m/s",
+                        "36 °"
                     ],
                     "data": "CAVONE"
                 },
                 {
                     "id": "699300",
                     "nome": "VAGLIO DI BASILICATA",
-                    "valore": "15 °",
+                    "valore": "53 °",
                     "serie": [
-                        "15 °",
-                        "1.5 m/s",
-                        "1.7 m/s",
-                        "13 °",
-                        "5.5 m/s",
-                        "72 °"
+                        "53 °",
+                        "1.0 m/s",
+                        "1.0 m/s",
+                        "53 °",
+                        "4.4 m/s",
+                        "67 °"
                     ],
                     "data": "BASENTO"
                 }
@@ -2772,9 +2772,9 @@
                 {
                     "id": "653100",
                     "nome": "ABRIOLA A SELLATA PIERFAONE",
-                    "valore": "1 cm",
+                    "valore": "2 cm",
                     "serie": [
-                        "1 cm"
+                        "2 cm"
                     ],
                     "data": "BASENTO"
                 },
@@ -2790,9 +2790,9 @@
                 {
                     "id": "55100",
                     "nome": "LAGONEGRO",
-                    "valore": "-1 cm",
+                    "valore": "1 cm",
                     "serie": [
-                        "-1 cm"
+                        "1 cm"
                     ],
                     "data": "NOCE"
                 },
@@ -2808,63 +2808,63 @@
                 {
                     "id": "907700",
                     "nome": "P_CORLETO PERTICARA",
-                    "valore": "0 cm",
+                    "valore": "1 cm",
                     "serie": [
-                        "0 cm"
+                        "1 cm"
                     ],
                     "data": ""
                 },
                 {
                     "id": "932200",
                     "nome": "P_RUVO DEL MONTE",
-                    "valore": "-4 cm",
+                    "valore": "-9 cm",
                     "serie": [
-                        "-4 cm"
+                        "-9 cm"
                     ],
                     "data": ""
                 },
                 {
                     "id": "907800",
                     "nome": "P_SELLATA",
-                    "valore": "29 cm",
+                    "valore": "30 cm",
                     "serie": [
-                        "29 cm"
+                        "30 cm"
                     ],
                     "data": ""
                 },
                 {
                     "id": "908000",
                     "nome": "P_TOLVE",
-                    "valore": "-1 cm",
+                    "valore": "0 cm",
                     "serie": [
-                        "-1 cm"
+                        "0 cm"
                     ],
                     "data": ""
                 },
                 {
                     "id": "83900",
                     "nome": "S.NICOLA",
-                    "valore": "0 cm",
+                    "valore": "2 cm",
                     "serie": [
-                        "0 cm"
+                        "2 cm"
                     ],
                     "data": "BRADANO"
                 },
                 {
                     "id": "54800",
                     "nome": "STIGLIANO",
-                    "valore": "2 cm",
+                    "valore": "-2 cm",
                     "serie": [
-                        "2 cm"
+                        "-2 cm"
                     ],
                     "data": "AGRI"
                 },
                 {
                     "id": "276500",
                     "nome": "TERRANOVA DI POLLINO",
-                    "valore": "0 cm",
+                    "valore": "-1 cm",
                     "serie": [
-                        "0 cm"
+                        "-1 cm"
                     ],
                     "data": "SINNI"
                 }
