@@ -1338,5 +1338,10 @@
     "d": "2026-10-04",
     "f": "2026/10/04.json",
     "max_criticality": "green"
+  },
+  {
+    "d": "2026-10-06",
+    "f": "2026/10/06.json",
+    "max_criticality": "green"
   }
 ]
