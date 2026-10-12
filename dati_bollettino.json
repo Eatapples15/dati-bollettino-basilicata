@@ -1,8 +1,8 @@
 {
     "zone": {
         "BASI A1": {
-            "oggi": "green",
-            "rischio_oggi": "Assenza di fenomeni significativi",
+            "oggi": "yellow",
+            "rischio_oggi": "Temporali",
             "domani": "green",
             "rischio_domani": "Assenza di fenomeni significativi"
         },
@@ -13,8 +13,8 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI B": {
-            "oggi": "green",
-            "rischio_oggi": "Assenza di fenomeni significativi",
+            "oggi": "yellow",
+            "rischio_oggi": "Temporali",
             "domani": "green",
             "rischio_domani": "Assenza di fenomeni significativi"
         },
@@ -31,14 +31,14 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI E1": {
-            "oggi": "green",
-            "rischio_oggi": "Assenza di fenomeni significativi",
+            "oggi": "yellow",
+            "rischio_oggi": "Temporali",
             "domani": "green",
             "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI E2": {
-            "oggi": "green",
-            "rischio_oggi": "Assenza di fenomeni significativi",
+            "oggi": "yellow",
+            "rischio_oggi": "Temporali",
             "domani": "green",
             "rischio_domani": "Assenza di fenomeni significativi"
         }
@@ -47,5 +47,5 @@
     "data_bollettino": "12/10/2026",
     "validita_inizio": "ore 14:00 del 12/10/2026",
     "validita_fine": "ore 23:59 del 13/10/2026",
-    "generato_il": "2026-10-12T13:08:50Z"
+    "generato_il": "2026-10-12T15:03:05Z"
 }
