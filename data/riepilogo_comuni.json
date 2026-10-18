@@ -1,923 +1,923 @@
 {
-  "generato_il": "2026-10-16T17:09:27Z",
+  "generato_il": "2026-10-18T16:20:15Z",
   "finestra_giorni": 365,
   "comuni": {
     "ABRIOLA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ACCETTURA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ACERENZA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ALBANO DI LUCANIA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ALIANO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ANZI": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ARMENTO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ATELLA": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "AVIGLIANO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BALVANO": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BANZI": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BARAGIANO": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BARILE": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BELLA": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BERNALDA": {
-      "green": 311,
+      "green": 310,
       "yellow": 40,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BRIENZA": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "BRINDISI MONTAGNA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CALCIANO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CALVELLO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CALVERA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CAMPOMAGGIORE": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CANCELLARA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CARBONE": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CASTELGRANDE": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CASTELLUCCIO INFERIORE": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CASTELLUCCIO SUPERIORE": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CASTELMEZZANO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CASTELSARACENO": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CASTRONUOVO DI SANT ANDREA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CERSOSIMO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CHIAROMONTE": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CIRIGLIANO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "COLOBRARO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CORLETO PERTICARA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "CRACO": {
-      "green": 313,
+      "green": 312,
       "yellow": 38,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "EPISCOPIA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "FARDELLA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "FERRANDINA": {
-      "green": 302,
+      "green": 301,
       "yellow": 49,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "FILIANO": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "FORENZA": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "FRANCAVILLA IN SINNI": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GALLICCHIO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GARAGUSO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GENZANO DI LUCANIA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GINESTRA": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GORGOGLIONE": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GRASSANO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GROTTOLE": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GRUMENTO NOVA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "GUARDIA PERTICARA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "IRSINA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "LAGONEGRO": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "LATRONICO": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "LAURENZANA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "LAURIA": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "LAVELLO": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MARATEA": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MARSICO NUOVO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MARSICOVETERE": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MASCHITO": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MATERA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MELFI": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MIGLIONICO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MISSANELLO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MOLITERNO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MONTALBANO JONICO": {
-      "green": 313,
+      "green": 312,
       "yellow": 38,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MONTEMILONE": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MONTEMURRO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MONTESCAGLIOSO": {
-      "green": 311,
+      "green": 310,
       "yellow": 40,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "MURO LUCANO": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "NEMOLI": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "NOEPOLI": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "NOVA SIRI": {
-      "green": 313,
+      "green": 312,
       "yellow": 38,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "OLIVETO LUCANO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "OPPIDO LUCANO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PALAZZO SAN GERVASIO": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PATERNO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PESCOPAGANO": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PICERNO": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PIETRAGALLA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PIETRAPERTOSA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PIGNOLA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "PISTICCI": {
-      "green": 311,
+      "green": 310,
       "yellow": 40,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "POLICORO": {
-      "green": 313,
+      "green": 312,
       "yellow": 38,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "POMARICO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "POTENZA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "RAPOLLA": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "RAPONE": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "RIONERO IN VULTURE": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "RIPACANDIDA": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "RIVELLO": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ROCCANOVA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ROTONDA": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "ROTONDELLA": {
-      "green": 313,
+      "green": 312,
       "yellow": 38,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "RUOTI": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "RUVO DEL MONTE": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SALANDRA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN CHIRICO NUOVO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN CHIRICO RAPARO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN COSTANTINO ALBANESE": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN FELE": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN GIORGIO LUCANO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN MARTINO DAGRI": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN MAURO FORTE": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN PAOLO ALBANESE": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAN SEVERINO LUCANO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SANT ANGELO LE FRATTE": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SANT ARCANGELO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SARCONI": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SASSO DI CASTALDA": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SATRIANO DI LUCANIA": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SAVOIA DI LUCANIA": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SCANZANO JONICO": {
-      "green": 313,
+      "green": 312,
       "yellow": 38,
       "orange": 3,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SENISE": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "SPINOSO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "STIGLIANO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TEANA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TERRANOVA DI POLLINO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TITO": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TOLVE": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TRAMUTOLA": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TRECCHINA": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TRICARICO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TRIVIGNO": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "TURSI": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "VAGLIO BASILICATA": {
-      "green": 312,
+      "green": 311,
       "yellow": 40,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "VALSINNI": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "VENOSA": {
-      "green": 311,
+      "green": 310,
       "yellow": 41,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "VIETRI DI POTENZA": {
-      "green": 298,
+      "green": 297,
       "yellow": 56,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "VIGGIANELLO": {
-      "green": 288,
+      "green": 287,
       "yellow": 66,
       "orange": 0,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     },
     "VIGGIANO": {
-      "green": 294,
+      "green": 293,
       "yellow": 58,
       "orange": 2,
       "red": 0,
-      "giorni": 354
+      "giorni": 353
     }
   }
 }
