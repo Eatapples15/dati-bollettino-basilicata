@@ -1,8 +1,8 @@
 {
     "zone": {
         "BASI A1": {
-            "oggi": "yellow",
-            "rischio_oggi": "Temporali",
+            "oggi": "green",
+            "rischio_oggi": "Assenza di fenomeni significativi",
             "domani": "green",
             "rischio_domani": "Assenza di fenomeni significativi"
         },
@@ -25,8 +25,8 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI D": {
-            "oggi": "yellow",
-            "rischio_oggi": "Temporali",
+            "oggi": "green",
+            "rischio_oggi": "Assenza di fenomeni significativi",
             "domani": "green",
             "rischio_domani": "Assenza di fenomeni significativi"
         },
@@ -43,9 +43,9 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
-    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_24_10_2026.pdf",
-    "data_bollettino": "24/10/2026",
-    "validita_inizio": "ore 14:00 del 24/10/2026",
-    "validita_fine": "ore 23:59 del 25/10/2026",
-    "generato_il": "2026-10-24T14:09:15Z"
+    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_25_10_2026.pdf",
+    "data_bollettino": "25/10/2026",
+    "validita_inizio": "ore 14:00 del 25/10/2026",
+    "validita_fine": "ore 23:59 del 26/10/2026",
+    "generato_il": "2026-10-26T09:10:59Z"
 }
