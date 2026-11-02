@@ -1,0 +1,47 @@
+{
+  "date": "02/11/2026",
+  "zones": {
+    "BASI A1": {
+      "oggi": "orange",
+      "rischio_oggi": "Idrogeologico",
+      "domani": "orange",
+      "rischio_domani": "Idrogeologico"
+    },
+    "BASI A2": {
+      "oggi": "orange",
+      "rischio_oggi": "Idrogeologico",
+      "domani": "yellow",
+      "rischio_domani": "Idrogeologico + Idraulico"
+    },
+    "BASI B": {
+      "oggi": "orange",
+      "rischio_oggi": "Idrogeologico",
+      "domani": "orange",
+      "rischio_domani": "Idrogeologico"
+    },
+    "BASI C": {
+      "oggi": "orange",
+      "rischio_oggi": "Idrogeologico",
+      "domani": "yellow",
+      "rischio_domani": "Idrogeologico + Idraulico"
+    },
+    "BASI D": {
+      "oggi": "orange",
+      "rischio_oggi": "Idrogeologico",
+      "domani": "yellow",
+      "rischio_domani": "Idrogeologico + Idraulico"
+    },
+    "BASI E1": {
+      "oggi": "orange",
+      "rischio_oggi": "Idrogeologico",
+      "domani": "orange",
+      "rischio_domani": "Idrogeologico"
+    },
+    "BASI E2": {
+      "oggi": "orange",
+      "rischio_oggi": "Idrogeologico",
+      "domani": "orange",
+      "rischio_domani": "Idrogeologico"
+    }
+  }
+}
