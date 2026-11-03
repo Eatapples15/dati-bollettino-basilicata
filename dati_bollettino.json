@@ -1,51 +1,51 @@
 {
     "zone": {
         "BASI A1": {
-            "oggi": "orange",
+            "oggi": "yellow",
             "rischio_oggi": "Idrogeologico",
-            "domani": "orange",
-            "rischio_domani": "Idrogeologico"
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI A2": {
-            "oggi": "orange",
-            "rischio_oggi": "Idrogeologico",
-            "domani": "yellow",
-            "rischio_domani": "Idrogeologico + Idraulico"
+            "oggi": "green",
+            "rischio_oggi": "Assenza di fenomeni significativi",
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI B": {
-            "oggi": "orange",
+            "oggi": "yellow",
             "rischio_oggi": "Idrogeologico",
-            "domani": "orange",
+            "domani": "yellow",
             "rischio_domani": "Idrogeologico"
         },
         "BASI C": {
-            "oggi": "orange",
+            "oggi": "yellow",
             "rischio_oggi": "Idrogeologico",
             "domani": "yellow",
-            "rischio_domani": "Idrogeologico + Idraulico"
-        },
-        "BASI D": {
-            "oggi": "orange",
-            "rischio_oggi": "Idrogeologico",
-            "domani": "yellow",
-            "rischio_domani": "Idrogeologico + Idraulico"
-        },
-        "BASI E1": {
-            "oggi": "orange",
-            "rischio_oggi": "Idrogeologico",
-            "domani": "orange",
             "rischio_domani": "Idrogeologico"
         },
+        "BASI D": {
+            "oggi": "green",
+            "rischio_oggi": "Assenza di fenomeni significativi",
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
+        },
+        "BASI E1": {
+            "oggi": "yellow",
+            "rischio_oggi": "Idrogeologico + Idraulico",
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
+        },
         "BASI E2": {
-            "oggi": "orange",
-            "rischio_oggi": "Idrogeologico",
-            "domani": "orange",
+            "oggi": "yellow",
+            "rischio_oggi": "Idrogeologico + Idraulico",
+            "domani": "yellow",
             "rischio_domani": "Idrogeologico"
         }
     },
-    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_02_11_2026.pdf",
-    "data_bollettino": "02/11/2026",
-    "validita_inizio": "ore 14:00 del 02/11/2026",
-    "validita_fine": "ore 23:59 del 03/11/2026",
-    "generato_il": "2026-11-03T12:05:57Z"
+    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_03_11_2026.pdf",
+    "data_bollettino": "03/11/2026",
+    "validita_inizio": "ore 14:00 del 03/11/2026",
+    "validita_fine": "ore 23:59 del 04/11/2026",
+    "generato_il": "2026-11-03T12:11:04Z"
 }
