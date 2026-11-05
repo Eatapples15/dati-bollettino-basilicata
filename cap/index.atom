@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://eatapples15.github.io/dati-bollettino-basilicata/cap/index.atom</id>
   <title>SicurBas - Allerte meteo-idrogeologiche Regione Basilicata (CAP)</title>
-  <updated>2026-11-04T12:41:00+01:00</updated>
+  <updated>2026-11-05T12:36:00+01:00</updated>
   <author><name>SicurBas - ripubblicazione non ufficiale del Bollettino di Criticita&apos;, Regione Basilicata</name></author>
   <link rel="self" href="https://eatapples15.github.io/dati-bollettino-basilicata/cap/index.atom"/>
   <entry>
@@ -22,20 +22,20 @@
     <summary>Cessata allerta - Zona A2 - Bollettino di criticita' Regione Basilicata.</summary>
   </entry>
   <entry>
-    <id>sicurbas-cap-basi-b-20261104T124100+0100-9711</id>
-    <title>Allerta - Zona B</title>
-    <updated>2026-11-04T12:41:00+01:00</updated>
+    <id>sicurbas-cap-basi-b-20261105T123600+0100-ab9d</id>
+    <title>Cessata allerta - Zona B</title>
+    <updated>2026-11-05T12:36:00+01:00</updated>
     <published>2026-11-01T13:16:00+01:00</published>
-    <link rel="alternate" type="application/cap+xml" href="alerts/sicurbas-cap-basi-b-20261104T124100+0100-9711.xml"/>
-    <summary>Allerta - Zona B - Bollettino di criticita' Regione Basilicata.</summary>
+    <link rel="alternate" type="application/cap+xml" href="alerts/sicurbas-cap-basi-b-20261105T123600+0100-ab9d.xml"/>
+    <summary>Cessata allerta - Zona B - Bollettino di criticita' Regione Basilicata.</summary>
   </entry>
   <entry>
-    <id>sicurbas-cap-basi-c-20261104T124100+0100-ff3e</id>
-    <title>Allerta - Zona C</title>
-    <updated>2026-11-04T12:41:00+01:00</updated>
+    <id>sicurbas-cap-basi-c-20261105T123600+0100-a6d0</id>
+    <title>Cessata allerta - Zona C</title>
+    <updated>2026-11-05T12:36:00+01:00</updated>
     <published>2026-10-31T12:55:00+01:00</published>
-    <link rel="alternate" type="application/cap+xml" href="alerts/sicurbas-cap-basi-c-20261104T124100+0100-ff3e.xml"/>
-    <summary>Allerta - Zona C - Bollettino di criticita' Regione Basilicata.</summary>
+    <link rel="alternate" type="application/cap+xml" href="alerts/sicurbas-cap-basi-c-20261105T123600+0100-a6d0.xml"/>
+    <summary>Cessata allerta - Zona C - Bollettino di criticita' Regione Basilicata.</summary>
   </entry>
   <entry>
     <id>sicurbas-cap-basi-d-20261103T131600+0100-bb61</id>
@@ -54,11 +54,11 @@
     <summary>Cessata allerta - Zona E1 - Bollettino di criticita' Regione Basilicata.</summary>
   </entry>
   <entry>
-    <id>sicurbas-cap-basi-e2-20261104T124100+0100-25f8</id>
-    <title>Allerta - Zona E2</title>
-    <updated>2026-11-04T12:41:00+01:00</updated>
+    <id>sicurbas-cap-basi-e2-20261105T123600+0100-2ebe</id>
+    <title>Cessata allerta - Zona E2</title>
+    <updated>2026-11-05T12:36:00+01:00</updated>
     <published>2026-11-01T13:16:00+01:00</published>
-    <link rel="alternate" type="application/cap+xml" href="alerts/sicurbas-cap-basi-e2-20261104T124100+0100-25f8.xml"/>
-    <summary>Allerta - Zona E2 - Bollettino di criticita' Regione Basilicata.</summary>
+    <link rel="alternate" type="application/cap+xml" href="alerts/sicurbas-cap-basi-e2-20261105T123600+0100-2ebe.xml"/>
+    <summary>Cessata allerta - Zona E2 - Bollettino di criticita' Regione Basilicata.</summary>
   </entry>
 </feed>
