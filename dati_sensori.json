@@ -1,5 +1,5 @@
 {
-    "ultimo_aggiornamento": "08/11/2026 19:29",
+    "ultimo_aggiornamento": "08/11/2026 23:40",
     "sensori": {
         "pluviometria": {
             "dati": [
@@ -1501,7 +1501,8 @@
                     ],
                     "data": "SELE"
                 }
-            ]
+            ],
+            "non_aggiornato": true
         },
         "idrometria": {
             "dati": [
@@ -1865,7 +1866,8 @@
                     ],
                     "data": "NOCE"
                 }
-            ]
+            ],
+            "non_aggiornato": true
         },
         "termometria": {
             "dati": [
@@ -2607,7 +2609,8 @@
                     ],
                     "data": "OFANTO"
                 }
-            ]
+            ],
+            "non_aggiornato": true
         },
         "anemometria": {
             "dati": [
@@ -2779,7 +2782,8 @@
                     ],
                     "data": "BASENTO"
                 }
-            ]
+            ],
+            "non_aggiornato": true
         },
         "nivometria": {
             "dati": [
@@ -2813,9 +2817,9 @@
                 {
                     "id": "418000",
                     "nome": "OPPIDO LUCANO",
-                    "valore": "-3 cm",
+                    "valore": "-2 cm",
                     "serie": [
-                        "-3 cm"
+                        "-2 cm"
                     ],
                     "data": "OFANTO"
                 },
@@ -2831,18 +2835,18 @@
                 {
                     "id": "932200",
                     "nome": "P_RUVO DEL MONTE",
-                    "valore": "3 cm",
+                    "valore": "-1 cm",
                     "serie": [
-                        "3 cm"
+                        "-1 cm"
                     ],
                     "data": ""
                 },
                 {
                     "id": "907800",
                     "nome": "P_SELLATA",
-                    "valore": "18 cm",
+                    "valore": "31 cm",
                     "serie": [
-                        "18 cm"
+                        "31 cm"
                     ],
                     "data": ""
                 },
@@ -2867,9 +2871,9 @@
                 {
                     "id": "54800",
                     "nome": "STIGLIANO",
-                    "valore": "-2 cm",
+                    "valore": "-1 cm",
                     "serie": [
-                        "-2 cm"
+                        "-1 cm"
                     ],
                     "data": "AGRI"
                 },
