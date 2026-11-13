@@ -7,10 +7,10 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI A2": {
-            "oggi": "green",
-            "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "yellow",
-            "rischio_domani": "Temporali"
+            "oggi": "yellow",
+            "rischio_oggi": "Temporali",
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI B": {
             "oggi": "green",
@@ -19,16 +19,16 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI C": {
-            "oggi": "green",
-            "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "yellow",
-            "rischio_domani": "Temporali"
+            "oggi": "yellow",
+            "rischio_oggi": "Temporali",
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI D": {
-            "oggi": "green",
-            "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "yellow",
-            "rischio_domani": "Temporali"
+            "oggi": "yellow",
+            "rischio_oggi": "Temporali",
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI E1": {
             "oggi": "green",
@@ -43,10 +43,9 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
-    "data_bollettino": "12/11/2026",
-    "validita_inizio": "12/11/2026",
-    "validita_fine": "12/11/2026",
-    "url_bollettino": "https://github.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica",
-    "fonte": "dpc_nazionale",
-    "generato_il": "2026-11-13T11:04:05Z"
+    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_13_11_2026.pdf",
+    "data_bollettino": "13/11/2026",
+    "validita_inizio": "ore 14:00 del 13/11/2026",
+    "validita_fine": "ore 23:59 del 14/11/2026",
+    "generato_il": "2026-11-13T11:05:57Z"
 }
