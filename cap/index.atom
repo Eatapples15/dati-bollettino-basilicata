@@ -6,14 +6,6 @@
   <author><name>SicurBas - ripubblicazione non ufficiale del Bollettino di Criticita&apos;, Regione Basilicata</name></author>
   <link rel="self" href="https://eatapples15.github.io/dati-bollettino-basilicata/cap/index.atom"/>
   <entry>
-    <id>sicurbas-cap-basi-a1-20261116T121600+0100-b6a4</id>
-    <title>Cessata allerta - Zona A1</title>
-    <updated>2026-11-16T12:16:00+01:00</updated>
-    <published>2026-11-14T13:06:00+01:00</published>
-    <link rel="alternate" type="application/cap+xml" href="alerts/sicurbas-cap-basi-a1-20261116T121600+0100-b6a4.xml"/>
-    <summary>Cessata allerta - Zona A1 - Bollettino di criticita' Regione Basilicata.</summary>
-  </entry>
-  <entry>
     <id>sicurbas-cap-basi-a2-20261117T130100+0100-577d</id>
     <title>Cessata allerta - Zona A2</title>
     <updated>2026-11-17T13:01:00+01:00</updated>
