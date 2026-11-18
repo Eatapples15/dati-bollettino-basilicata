@@ -27,8 +27,8 @@
         "BASI D": {
             "oggi": "green",
             "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "green",
-            "rischio_domani": "Assenza di fenomeni significativi"
+            "domani": "yellow",
+            "rischio_domani": "Temporali"
         },
         "BASI E1": {
             "oggi": "green",
@@ -43,10 +43,9 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
-    "data_bollettino": "17/11/2026",
-    "validita_inizio": "17/11/2026",
-    "validita_fine": "17/11/2026",
-    "url_bollettino": "https://github.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica",
-    "fonte": "dpc_nazionale",
-    "generato_il": "2026-11-18T12:49:33Z"
+    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/EC-Bollettino_Criticita_Regione_Basilicata_18_11_2026.pdf",
+    "data_bollettino": "18/11/2026",
+    "validita_inizio": "ore 14:00 del 18/11/2026",
+    "validita_fine": "ore 23:59 del 19/11/2026",
+    "generato_il": "2026-11-18T12:51:01Z"
 }
