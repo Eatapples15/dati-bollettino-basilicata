@@ -3,14 +3,14 @@
         "BASI A1": {
             "oggi": "green",
             "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "green",
-            "rischio_domani": "Assenza di fenomeni significativi"
+            "domani": "yellow",
+            "rischio_domani": "Temporali"
         },
         "BASI A2": {
             "oggi": "green",
             "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "green",
-            "rischio_domani": "Assenza di fenomeni significativi"
+            "domani": "yellow",
+            "rischio_domani": "Temporali"
         },
         "BASI B": {
             "oggi": "green",
@@ -21,14 +21,14 @@
         "BASI C": {
             "oggi": "green",
             "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "green",
-            "rischio_domani": "Assenza di fenomeni significativi"
+            "domani": "yellow",
+            "rischio_domani": "Temporali"
         },
         "BASI D": {
             "oggi": "green",
             "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "green",
-            "rischio_domani": "Assenza di fenomeni significativi"
+            "domani": "yellow",
+            "rischio_domani": "Idrogeologico + Temporali"
         },
         "BASI E1": {
             "oggi": "green",
@@ -43,9 +43,9 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
-    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_24_11_2026.pdf",
-    "data_bollettino": "24/11/2026",
-    "validita_inizio": "ore 14:00 del 24/11/2026",
-    "validita_fine": "ore 23:59 del 25/11/2026",
-    "generato_il": "2026-11-25T11:41:00Z"
+    "url_bollettino": "https://centrofunzionale.regione.basilicata.it/ew/ew_pdf/a/Bollettino_Criticita_Regione_Basilicata_25_11_2026.pdf",
+    "data_bollettino": "25/11/2026",
+    "validita_inizio": "ore 14:00 del 25/11/2026",
+    "validita_fine": "ore 23:59 del 26/11/2026",
+    "generato_il": "2026-11-25T11:45:56Z"
 }
