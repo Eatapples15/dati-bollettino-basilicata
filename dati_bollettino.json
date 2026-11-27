@@ -27,8 +27,8 @@
         "BASI D": {
             "oggi": "green",
             "rischio_oggi": "Assenza di fenomeni significativi",
-            "domani": "yellow",
-            "rischio_domani": "Temporali"
+            "domani": "green",
+            "rischio_domani": "Assenza di fenomeni significativi"
         },
         "BASI E1": {
             "oggi": "green",
@@ -43,10 +43,10 @@
             "rischio_domani": "Assenza di fenomeni significativi"
         }
     },
-    "data_bollettino": "26/11/2026",
-    "validita_inizio": "26/11/2026",
-    "validita_fine": "26/11/2026",
+    "data_bollettino": "27/11/2026",
+    "validita_inizio": "27/11/2026",
+    "validita_fine": "27/11/2026",
     "url_bollettino": "https://github.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica",
     "fonte": "dpc_nazionale",
-    "generato_il": "2026-11-27T13:37:08Z"
+    "generato_il": "2026-11-27T13:42:20Z"
 }
