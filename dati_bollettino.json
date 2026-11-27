@@ -48,5 +48,9 @@
     "validita_fine": "27/11/2026",
     "url_bollettino": "https://github.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica",
     "fonte": "dpc_nazionale",
+<<<<<<< Updated upstream
     "generato_il": "2026-11-27T13:47:17Z"
+=======
+    "generato_il": "2026-11-27T13:47:24Z"
+>>>>>>> Stashed changes
 }
